@@ -1,0 +1,22 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 2.0rem;
+}
+
+ul.navbar-nav, .jumbotron h1 {
+	font-family: 'Arvo', serif;
+}
+
+ul.navbar-nav {
+	font-size: 13px;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+.btn-lg {
+	font-size: 36px;
+}
+
+
